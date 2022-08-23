@@ -7,8 +7,10 @@
   <img src="https://media.giphy.com/media/5Su8umfuyg3PQMiJ9l/giphy.gif"/>
 </div>
 
+<div aling="center">
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarioBozhikov&theme=dark&hide_border=true)](https://git.io/streak-stats)
- 
+</div
+
 <div>
   <h1>💻Tech stack:<h1>
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"/>
