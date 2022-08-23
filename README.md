@@ -20,6 +20,7 @@
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"/>
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"/>
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"/>  
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"/>
 </div>
 
