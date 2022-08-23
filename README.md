@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/5Su8umfuyg3PQMiJ9l/giphy.gif"/>
 </div>
- ![](https://github-readme-streak-stats.herokuapp.com/?user=MarioBozhikov&theme=dark)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarioBozhikov&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <div>
   <h1>💻Tech stack:<h1>
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"/>
@@ -16,4 +16,5 @@
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"/>
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"/>
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"/>
 </div>
