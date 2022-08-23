@@ -13,8 +13,10 @@
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"/>
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"/>
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg"/>
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/>
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"/>
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"/>
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"/>
