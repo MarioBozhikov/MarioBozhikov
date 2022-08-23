@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi I'm Mario</h1>
   <h2 align="center">A bit of myself:</h2>
-  <h3 align="center">From a simple "How to download NFS Underground 2 free" on the web back in 2008 to the green cubes walking jorney now 🏃. Outside of GitHub and code i love extrime sports and cars</h3>  
+  <h3 align="center">From a simple "How to download NFS Underground 2 free" on the web back in 2008 to the green cubes walking jorney now 🏃.</h3>  
 <div align="center">
   <img src="https://media.giphy.com/media/5Su8umfuyg3PQMiJ9l/giphy.gif"/>
 </div>
