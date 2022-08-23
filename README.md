@@ -4,12 +4,18 @@
 <div align="center">
   <img src="https://media.giphy.com/media/5Su8umfuyg3PQMiJ9l/giphy.gif"/>
 </div>
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarioBozhikov&theme=dark)](https://git.io/streak-stats)
+<div>
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarioBozhikov&theme=dark)](https://git.io/streak-stats)
+</div>
 <div>
   <h1>💻Tech stack:<h1>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>  
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"/>
 </div>
